@@ -5,7 +5,7 @@ Course management system
 first download the repository
 
 then install the dependencies 
-" npm install"
+``` npm install```
  This will install all the dependencies.
  
- Next type "npm start" to start the project
+ Next type ```npm start``` to start the project
